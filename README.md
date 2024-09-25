@@ -3,7 +3,7 @@ Author: Elizabeth Yates
 
 In this repository, I completed the following assignment: 
 
-## 1. Encapsulation in Personal Budget Management
+## 1. Encapsulation in Personal Budget Management (personal_budget_management.py)
 
 Objective: The aim of this assignment is to reinforce the understanding of encapsulation in Python, focusing on the use of private attributes and getters and setters.
 
